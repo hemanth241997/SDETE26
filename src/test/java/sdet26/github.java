@@ -6,6 +6,7 @@ public class github {
 	@Test
 	public void gitHub() {
 		System.out.println("push and commit");
+		System.out.println("pull");
 	}
 
 }
