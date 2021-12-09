@@ -7,6 +7,7 @@ public class github {
 	public void gitHub() {
 		System.out.println("push and commit");
 		System.out.println("pull");
+		System.out.println("pruthvi");
 	}
 
 }
