@@ -10,6 +10,8 @@ public class github {
 		System.out.println("pruthvi");
 		System.out.println("puneeth rajkumar");
 		System.out.println("richi");
+		System.out.println("cherli");
+		System.out.println("harshitha");
 		
 	}
 
