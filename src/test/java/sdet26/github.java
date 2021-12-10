@@ -12,6 +12,9 @@ public class github {
 		System.out.println("richi");
 		System.out.println("cherli");
 		System.out.println("harshitha");
+		System.out.println("pru");
+		System.out.println("xyz");
+		
 		
 	}
 
