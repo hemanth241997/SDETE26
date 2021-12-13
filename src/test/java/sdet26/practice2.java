@@ -8,6 +8,7 @@ public class practice2 {
 public void practice2() {
 	System.out.println("Appu");
 	System.out.println("james");
+	System.out.println("hemanth");
 }
 
 }
